@@ -1,0 +1,1 @@
+将yml文件放在github上，然后用Spring Cloud Config 进行获取
